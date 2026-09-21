@@ -106,7 +106,6 @@
 
 <br><br>
 
-<img src="https://progress-bar.dev/100/?title=CODING&width=500&color=58A6FF&suffix=%25" />
 
 </div>
 
